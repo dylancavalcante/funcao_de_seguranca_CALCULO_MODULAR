@@ -1,7 +1,7 @@
-# README: Cálculo Modular e Exponenciação Eficiente (QUESTÃO 9 PROVA)
+#Cálculo Modular e Exponenciação Eficiente (QUESTÃO 9 PROVA)
 
-Aluno: Dylan Portela Cavalcante
-Matrícula: 231026984
+| Aluno: Dylan Portela Cavalcante | Matrícula: 231026984 |
+
 
 Este programa realiza cálculos de divisão modular e exponenciação eficiente usando o Teorema de Euler/Fermat. Ele é útil para resolver problemas em criptografia, teoria dos números e algoritmos modulares.
 
